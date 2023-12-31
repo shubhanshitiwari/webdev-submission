@@ -1,0 +1,22 @@
+body{background-color:	rgb(255, 250, 205);}
+    h1{color:rgb(15, 4, 4);
+        margin-left:400px;
+        padding-top: 50px;
+        font-size: 25px;
+        font-family:cursive;}
+    p{color:rgb(71, 38, 234);
+        border:1px solid powderblue;
+        padding: 30px;
+        font-family:cursive;}
+    h2{color:rgb(15, 4, 4);
+        margin-left:400px;
+        padding-top: 50px;
+        font-size: 25px;
+        font-family:cursive;}
+
+table{color:brown}
+tr{color:rgb(54, 0, 43);
+    margin-left:40px;
+    padding-top: 50px;
+    font-size: 15px;
+    font-family:cursive;}
